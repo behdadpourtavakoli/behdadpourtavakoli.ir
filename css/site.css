@@ -1,0 +1,48 @@
+body {
+    font-family: 'IranYekan', Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+    color: #333;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+h1, h2 {
+    margin-bottom: 0.5rem;
+}
+section {
+    margin-bottom: 2rem;
+}
+.en {
+    direction: ltr;
+    text-align: left;
+}
+.fa {
+    direction: rtl;
+    text-align: right;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #ccc;
+}
+.RTL {
+    direction: rtl;
+}
+
+.LTR {
+    direction: ltr;
+    text-align: left;
+}

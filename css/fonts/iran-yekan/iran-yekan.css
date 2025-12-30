@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'iranyekan';
+    src: url('iran-yekan-400.ttf') format('truetype'), url('iran-yekan-400.ttf') format('truetype');
+}
+
+.persianFont {
+    font-family: 'iranyekan';
+}
